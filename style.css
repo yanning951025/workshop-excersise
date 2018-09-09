@@ -1,0 +1,10 @@
+h1{
+    border-style: dotted;
+    border-width: 5px;
+    text-align: center;
+    padding: 50px;
+    color: white;
+    background-color: #ff9999;
+    border-color: black;
+    margin-bottom: 50px;
+}
